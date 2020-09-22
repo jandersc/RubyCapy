@@ -1,0 +1,1 @@
+puts 'Olá Ruby!' #imprime no console a frase Olá Ruby
